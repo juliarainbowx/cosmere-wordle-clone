@@ -1,7 +1,6 @@
 const targetWords = [
   "shard",  // Shards of Adonalsium
   "sazed",  // Mistborn: Hero of Ages
-  "vin",    // Mistborn protagonist
   "spike",  // Hemalurgic spikes
   "atium",  // God metal in Mistborn
   "ruina",  // Ruin, the destructive Shard
