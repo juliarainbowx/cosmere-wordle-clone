@@ -25,7 +25,6 @@ const targetWords = [
   "adien",  // Child with autism from Elantris
   "blush",  // Blushweaver in Warbreaker
   "seons",  // Aons’ spirit beings from Elantris
-  "skaa",   // Lower class in Mistborn
   "urith",  // Urithiru, lost city in Stormlight
   "night",  // Nightblood sword
   "sword",  // Nightblood, Shardblades
