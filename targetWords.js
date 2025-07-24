@@ -1,5 +1,4 @@
 const targetWords = [
-  "hoid",   // The mysterious worldhopper
   "shard",  // Shards of Adonalsium
   "sazed",  // Mistborn: Hero of Ages
   "vin",    // Mistborn protagonist
@@ -36,17 +35,14 @@ const targetWords = [
   "waxes",  // Waxillium Ladrian, Mistborn Era 2
   "wayne",  // Mistborn Era 2 — lovable rogue
   "notum",  // Honorspren in Stormlight
-  "lazlo",  // From *Strange the Dreamer* (not Cosmere, but often mistaken)
   "tashi",  // Vorin expression: “Tashi bless you”
   "spren",  // Spirits from Stormlight Archive
   "skyey",  // Skybreakers
   "truth",  // Oaths of the Radiants
   "soulc",  // Soulcasting
-  "brews",  // Alethi warriors
   "ashen",  // The Ashyn planet from Cosmere
   "bonds",  // Nahel bond
   "dawns",  // Dawnshards
-  "harmn",  // Harmony, Sazed after Ascension
 ];
 
 export default targetWords;
